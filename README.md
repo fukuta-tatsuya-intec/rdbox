@@ -15,7 +15,7 @@ And that is got Effect with only **Run the scripts** and **Burn the SDCARD.**
 [(DETAIL: What you do)](#What-you-do)  
 <img src="./images/you_can_easily_make_by_rdbox.png" title="./images/you_can_easily_make_by_rdbox.png" align="left" width=720px></img>
 
-**Of course, protect the app at all layers of the OSI reference model.**
+<p>Of course, protect the app at all layers of the OSI reference model.</p>
 <img src="./images/L1-L7.png" title="./images/L1-L7.png" width=720px></img>
 
 Please do not worry. You can create an SD card easily by app. (Now offering Windows10 version. Mac and Linux versions will be released soon.)  
